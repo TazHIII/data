@@ -1,4 +1,4 @@
-CIC,Industry,Obs,Employment (in 1000s),Members (in 1000s),Covered (in 1000s),% Mem,% Cov
+CIC,Industry,Obs,Employment ,Members,Covered ,% Mem,% Cov
 ,AGRICULTURE,2426.00,1846.18,38.03,45.89,0.02,0.02
 10,"Agricultural production, crops ",710.00,585.42,14.44,18.84,0.02,0.03
 11,"Agricultural production, livestock ",627.00,385.72,3.44,5.09,0.01,0.01
