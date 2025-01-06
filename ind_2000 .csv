@@ -1,0 +1,256 @@
+Industry,Obs,Employment (in 1000s),Members (in 1000s),Covered (in 1000s),% Mem,% Cov
+AGRICULTURE,2426.00,1846.18,38.03,45.89,0.02,0.02
+"Agricultural production, crops ",710.00,585.42,14.44,18.84,0.02,0.03
+"Agricultural production, livestock ",627.00,385.72,3.44,5.09,0.01,0.01
+Veterinary services ,256.00,186.24,1.58,1.58,0.01,0.01
+Landscape and horticultural services ,681.00,558.29,15.39,17.20,0.03,0.03
+"Agricultural services, n.e.c. ",152.00,130.51,3.19,3.19,0.02,0.02
+FORESTRY AND FISHERIES,205.00,93.06,11.11,17.72,0.12,0.19
+Forestry ,139.00,60.66,9.57,14.54,0.16,0.24
+"Fishing, hunting, and trapping ",66.00,32.40,1.54,3.18,0.05,0.10
+MINING,10365.00,7656.77,1444.74,1516.08,0.19,0.20
+Metal mining ,109.00,45.61,14.91,16.23,0.33,0.36
+Coal mining ,156.00,70.01,16.57,17.90,0.24,0.26
+Oil and gas extraction ,502.00,300.78,10.22,10.34,0.03,0.03
+"Nonmetallic mining and quarrying, except fuel ",156.00,83.48,13.32,13.32,0.16,0.16
+CONSTRUCTION ,9442.00,7156.89,1389.72,1458.29,0.19,0.20
+"MANUFACTURING, NONDURABLE GOODS",9672.00,7497.48,1046.50,1110.99,0.14,0.15
+Meat products ,636.00,459.03,100.38,109.33,0.22,0.24
+Dairy products ,213.00,158.28,34.24,37.35,0.22,0.24
+"Canned, frozen and preserved fruits and vegetables ",261.00,190.55,48.09,50.00,0.25,0.26
+Grain mill products ,199.00,154.45,23.73,24.38,0.15,0.16
+Bakery products ,300.00,230.96,60.47,63.26,0.26,0.27
+Sugar and confectionery products ,145.00,100.36,28.40,28.62,0.28,0.29
+Beverage industries ,238.00,198.54,43.86,47.17,0.22,0.24
+Miscellaneous food preparations and kindred products ,217.00,157.59,23.01,24.55,0.15,0.16
+Not specified food industries,12.00,7.45,0.94,0.94,0.13,0.13
+Tobacco manufactures ,60.00,49.98,12.01,12.01,0.24,0.24
+Knitting mills ,107.00,83.18,4.71,4.92,0.06,0.06
+"Dyeing and finishing textiles, except wool and knit goods ",35.00,24.96,2.45,2.45,0.10,0.10
+Carpets and rugs ,77.00,74.41,4.18,4.18,0.06,0.06
+"Yarn, thread, and fabric mills ",308.00,280.13,11.48,11.48,0.04,0.04
+Miscellaneous textile mill products ,45.00,37.76,4.28,5.10,0.11,0.14
+"Apparel and accessories, except knit ",679.00,545.71,32.76,37.14,0.06,0.07
+Miscellaneous fabricated textile products ,170.00,134.90,11.12,11.43,0.08,0.08
+"Pulp, paper, and paperboard mills ",293.00,225.32,93.45,95.58,0.41,0.42
+Miscellaneous paper and pulp products ,245.00,186.91,31.46,33.18,0.17,0.18
+Paperboard containers and boxes ,225.00,178.43,39.96,40.74,0.22,0.23
+Newspaper publishing and printing ,665.00,467.45,46.09,47.53,0.10,0.10
+"Printing, publishing, and allied industries, except newspapers ",1545.00,1200.02,86.70,94.42,0.07,0.08
+"Plastics, synthetics, and resins ",221.00,177.11,20.31,24.68,0.11,0.14
+Drugs ,469.00,378.54,15.19,17.28,0.04,0.05
+Soaps and cosmetics ,222.00,174.50,16.09,17.19,0.09,0.10
+"Paints, varnishes, and related products ",90.00,73.12,10.18,11.79,0.14,0.16
+Agricultural chemicals ,68.00,44.23,6.54,7.11,0.15,0.16
+Industrial and miscellaneous chemicals ,552.00,401.69,49.42,53.85,0.12,0.13
+Petroleum refining ,174.00,129.15,31.46,34.24,0.24,0.27
+Miscellaneous petroleum and coal products ,28.00,23.70,4.87,5.76,0.21,0.24
+Tires and inner tubes ,136.00,128.64,46.77,48.99,0.36,0.38
+"Other rubber products, and plastics footwear and belting ",182.00,140.68,22.53,22.53,0.16,0.16
+Miscellaneous plastics products ,738.00,589.12,68.11,70.52,0.12,0.12
+Leather tanning and finishing ,12.00,10.18,5.30,5.30,0.52,0.52
+"Footwear, except rubber and plastic ",57.00,36.99,3.98,3.98,0.11,0.11
+"Leather products, except footwear ",48.00,43.47,1.99,1.99,0.05,0.05
+"MANUFACTURING, DURABLE GOODS",14822.00,11732.62,1796.00,1900.48,0.15,0.16
+Logging ,117.00,69.11,1.10,1.87,0.02,0.03
+"Sawmills, planing mills, and millwork ",530.00,380.54,42.66,45.56,0.11,0.12
+Wood buildings and mobile homes ,108.00,91.54,5.44,6.27,0.06,0.07
+Miscellaneous wood products ,171.00,126.62,8.02,9.13,0.06,0.07
+Furniture and fixtures ,756.00,617.15,54.30,57.55,0.09,0.09
+Glass and glass products ,233.00,190.56,41.04,41.04,0.22,0.22
+"Cement, concrete, gypsum, and plaster products ",278.00,215.71,35.71,36.31,0.17,0.17
+Structural clay products ,38.00,30.96,2.61,2.61,0.08,0.08
+Pottery and related products ,54.00,40.24,12.99,12.99,0.32,0.32
+Miscellaneous nonmetallic mineral and stone products ,142.00,110.40,17.63,18.89,0.16,0.17
+"Blast furnaces, steelworks, rolling and finishing mills ",400.00,317.45,124.58,128.03,0.39,0.40
+Iron and steel foundries ,124.00,104.60,41.75,41.75,0.40,0.40
+Primary aluminum industries ,159.00,139.52,45.81,48.73,0.33,0.35
+Other primary metal industries ,236.00,189.21,30.23,32.62,0.16,0.17
+"Cutlery, handtools, and general hardware ",134.00,94.56,15.12,16.24,0.16,0.17
+Fabricated structural metal products ,660.00,522.83,67.84,71.94,0.13,0.14
+Screw machine products ,79.00,59.83,2.85,2.85,0.05,0.05
+Metal forgings and stampings ,166.00,134.29,37.99,40.12,0.28,0.30
+Ordnance ,62.00,44.16,8.62,8.62,0.20,0.20
+Miscellaneous fabricated metal products ,437.00,358.36,48.65,48.65,0.14,0.14
+Not specified metal industries,3.00,2.30,0.00,0.00,0.00,0.00
+Engines and turbines ,74.00,65.68,16.54,16.54,0.25,0.25
+Farm machinery and equipment ,161.00,99.33,10.29,13.83,0.10,0.14
+Construction and material handling machines ,278.00,227.37,49.43,50.74,0.22,0.22
+Metalworking machinery ,376.00,300.28,29.63,32.31,0.10,0.11
+Office and accounting machines ,45.00,35.01,1.01,1.13,0.03,0.03
+Computers and related equipment ,624.00,524.30,2.76,3.58,0.01,0.01
+"Machinery, except electrical, n.e.c. ",1401.00,1112.90,131.82,140.46,0.12,0.13
+Not specified machinery,5.00,4.22,1.12,1.12,0.27,0.27
+Household appliances ,146.00,129.64,26.40,29.30,0.20,0.23
+"Radio, TV, and communication equipment ",524.00,441.49,32.40,35.04,0.07,0.08
+"Electrical machinery, equipment, and supplies, n.e.c. ",1690.00,1297.00,110.08,121.08,0.08,0.09
+"Not specified electrical machinery, equipment, and supplies",27.00,29.49,1.64,1.64,0.06,0.06
+Motor vehicles and motor vehicle equipment ,1615.00,1310.19,469.91,481.32,0.36,0.37
+Aircraft and parts ,540.00,439.92,113.09,124.40,0.26,0.28
+Ship and boat building and repairing ,234.00,178.01,29.03,32.00,0.16,0.18
+Railroad locomotives and equipment ,33.00,25.67,6.30,6.30,0.25,0.25
+"Guided missiles, space vehicles, and parts ",274.00,222.35,29.93,40.68,0.13,0.18
+Cycles and miscellaneous transportation equipment ,107.00,85.70,13.25,13.25,0.15,0.15
+Scientific and controlling instruments ,262.00,205.72,8.54,8.54,0.04,0.04
+"Medical, dental, and optical instruments and supplies ",518.00,415.42,11.90,14.14,0.03,0.03
+Photographic equipment and supplies ,123.00,95.67,4.60,4.60,0.05,0.05
+"Watches, clocks, and clockwork operated devices ",15.00,18.38,3.69,3.69,0.20,0.20
+"Toys, amusement, and sporting goods ",183.00,139.47,12.07,12.74,0.09,0.09
+Miscellaneous manufacturing industries ,520.00,359.17,21.92,25.71,0.06,0.07
+Not specified manufacturing industries,160.00,130.32,13.71,14.58,0.11,0.11
+TRANSPORTATION,7607.00,5764.66,1922.98,2032.12,0.33,0.35
+Railroads ,459.00,316.73,219.84,225.21,0.69,0.71
+Bus service and urban transit ,828.00,614.04,222.67,235.59,0.36,0.38
+Taxicab service ,116.00,86.81,6.88,7.13,0.08,0.08
+Trucking service ,2859.00,2196.06,411.53,434.69,0.19,0.20
+Warehousing and storage ,196.00,169.63,13.33,14.63,0.08,0.09
+U.S. Postal Service ,1214.00,894.76,626.38,663.85,0.70,0.74
+Water transportation ,236.00,183.23,43.13,45.27,0.24,0.25
+Air transportation ,1180.00,923.64,357.37,380.98,0.39,0.41
+"Pipe lines, except natural gas ",24.00,16.10,3.10,3.20,0.19,0.20
+Services incidental to transportation ,495.00,363.65,18.75,21.55,0.05,0.06
+COMMUNICATIONS,2506.00,1962.96,406.41,441.73,0.21,0.23
+Radio and television broadcasting and cable ,629.00,465.69,44.38,49.07,0.10,0.11
+Telephone communications ,1840.00,1469.65,361.37,391.99,0.25,0.27
+Telegraph and miscellaneous communications services ,37.00,27.63,0.67,0.67,0.02,0.02
+UTILITIES AND SANITARY SERVICES,2010.00,1435.38,426.30,446.15,0.30,0.31
+Electric light and power ,853.00,584.96,184.72,193.91,0.32,0.33
+Gas and steam supply systems ,201.00,138.03,39.62,40.72,0.29,0.29
+"Electric and gas, and other combinations ",182.00,150.18,51.22,52.62,0.34,0.35
+Water supply and irrigation ,328.00,240.23,57.03,59.14,0.24,0.25
+Sanitary services ,434.00,311.76,92.81,98.85,0.30,0.32
+Not specified utilities,12.00,10.22,0.91,0.91,0.09,0.09
+WHOLESALE TRADE,6297.00,4779.55,245.54,269.59,0.05,0.06
+Motor vehicles and equipment ,312.00,242.79,11.87,11.87,0.05,0.05
+Furniture and home furnishings ,99.00,81.99,2.91,2.91,0.04,0.04
+Lumber and construction materials ,268.00,212.37,10.98,10.98,0.05,0.05
+Professional and commercial equipment and supplies ,624.00,505.19,10.46,12.19,0.02,0.02
+"Metals and minerals, except petroleum ",125.00,95.09,11.81,11.81,0.12,0.12
+Electrical goods ,447.00,362.84,1.13,1.13,0.00,0.00
+"Hardware, plumbing and heating supplies ",337.00,250.61,6.67,8.79,0.03,0.04
+"Machinery, equipment, and supplies ",913.00,647.38,13.58,16.23,0.02,0.03
+Scrap and waste materials ,191.00,145.94,17.08,19.18,0.12,0.13
+"Miscellaneous wholesale, durable goods ",176.00,131.64,1.58,1.58,0.01,0.01
+Paper and paper products ,160.00,124.67,5.94,6.26,0.05,0.05
+"Drugs, chemicals and allied products ",312.00,235.87,3.96,7.14,0.02,0.03
+"Apparel, fabrics, and notions ",157.00,123.12,4.11,5.43,0.03,0.04
+Groceries and related products ,1129.00,867.47,106.45,114.45,0.12,0.13
+Farm-product raw materials ,153.00,96.08,2.66,2.66,0.03,0.03
+Petroleum products ,154.00,106.89,3.32,3.32,0.03,0.03
+Alcoholic beverages ,149.00,110.27,10.67,10.67,0.10,0.10
+Farm supplies ,183.00,119.60,1.70,1.70,0.01,0.01
+"Miscellaneous wholesale, nondurable goods ",370.00,285.82,15.51,18.15,0.05,0.06
+Not specified wholesale trade,38.00,33.94,3.17,3.17,0.09,0.09
+RETAIL TRADE,27042.00,20451.71,963.77,1063.86,0.05,0.05
+Lumber and building material retailing ,841.00,662.32,15.48,20.11,0.02,0.03
+Hardware stores ,283.00,202.97,2.26,2.26,0.01,0.01
+Retail nurseries and garden stores ,164.00,119.42,2.12,2.12,0.02,0.02
+Mobile home dealers ,55.00,36.59,0.00,0.00,0.00,0.00
+Department stores ,2895.00,2223.79,90.07,102.97,0.04,0.05
+Variety stores ,186.00,144.18,0.75,1.79,0.01,0.01
+Miscellaneous general merchandise stores ,252.00,172.30,9.40,9.40,0.05,0.05
+Grocery stores ,3878.00,2876.73,556.59,586.70,0.19,0.20
+Dairy products stores ,32.00,27.85,3.34,3.56,0.12,0.13
+Retail bakeries ,234.00,167.17,9.57,12.40,0.06,0.07
+"Food stores, n.e.c. ",235.00,183.21,7.22,8.65,0.04,0.05
+Motor vehicle dealers ,1531.00,1166.21,40.16,46.46,0.03,0.04
+Auto and home supply stores ,565.00,423.23,10.55,13.88,0.02,0.03
+Gasoline service stations ,463.00,336.92,4.79,5.41,0.01,0.02
+Miscellaneous vehicle dealers ,166.00,117.06,0.00,0.00,0.00,0.00
+"Apparel and accessory stores, except shoe ",959.00,715.44,7.31,8.90,0.01,0.01
+Shoe stores ,161.00,129.37,0.42,0.42,0.00,0.00
+Furniture and home furnishings stores ,695.00,531.07,9.18,10.11,0.02,0.02
+Household appliance stores ,79.00,53.78,1.73,2.01,0.03,0.04
+"Radio, TV, and computer stores ",577.00,455.51,5.61,7.36,0.01,0.02
+Music stores ,160.00,132.52,0.79,0.79,0.01,0.01
+Eating and drinking places ,8450.00,6433.19,92.39,110.05,0.01,0.02
+Drug stores ,832.00,645.25,52.98,59.16,0.08,0.09
+Liquor stores ,154.00,127.91,5.14,6.46,0.04,0.05
+"Sporting goods, bicycles, and hobby stores ",456.00,346.04,2.33,4.17,0.01,0.01
+Book and stationery stores ,410.00,303.12,6.17,6.86,0.02,0.02
+Jewelry stores ,194.00,145.77,1.90,3.19,0.01,0.02
+"Gift, novelty, and souvenir shops ",240.00,182.53,2.05,2.05,0.01,0.01
+"Sewing, needlework and piece goods stores ",54.00,41.87,0.00,0.00,0.00,0.00
+Catalog and mail order houses ,171.00,123.67,4.02,4.36,0.03,0.04
+Vending machine operators ,69.00,53.21,4.45,4.45,0.08,0.08
+Direct selling establishments ,159.00,106.98,1.05,1.05,0.01,0.01
+Fuel dealers ,134.00,89.52,5.31,5.31,0.06,0.06
+Retail florists ,219.00,153.86,1.68,1.68,0.01,0.01
+Miscellaneous retail stores ,938.00,693.36,4.11,5.95,0.01,0.01
+Not specified retail trade,151.00,127.78,2.86,3.82,0.02,0.03
+"FINANCE, INSURANCE, AND REAL ESTATE",10343.00,7686.44,173.54,212.22,0.02,0.03
+Banking ,2644.00,1906.09,13.61,21.87,0.01,0.01
+"Savings institutions, including credit unions ",407.00,274.08,4.32,7.63,0.02,0.03
+"Credit agencies, n.e.c. ",998.00,754.44,3.45,6.71,0.00,0.01
+"Security, commodity brokerage, and investment companies ",1185.00,910.67,11.70,13.89,0.01,0.02
+Insurance ,2861.00,2130.29,48.65,59.83,0.02,0.03
+"Real estate, including real estate-insurance offices ",2248.00,1710.88,91.81,102.28,0.05,0.06
+BUSINESS AND REPAIR SERVICES,9980.00,7934.15,236.93,298.80,0.03,0.04
+Advertising ,298.00,233.30,2.77,5.04,0.01,0.02
+Services to dwellings and other buildings ,870.00,649.51,56.65,63.68,0.09,0.10
+Personnel supply services ,1284.00,1064.22,18.89,34.82,0.02,0.03
+Computer and data processing services ,2687.00,2225.42,24.17,37.83,0.01,0.02
+Detective and protective services ,703.00,547.52,32.63,38.97,0.06,0.07
+"Business services, n.e.c. ",2017.00,1540.68,35.71,42.58,0.02,0.03
+"Automotive rental and leasing, without drivers ",254.00,204.05,11.34,12.50,0.06,0.06
+Automotive parking and carwashes ,232.00,189.88,10.84,12.12,0.06,0.06
+Automotive repair and related services ,1080.00,847.39,18.70,22.73,0.02,0.03
+Electrical repair shops ,108.00,81.48,4.14,4.14,0.05,0.05
+Miscellaneous repair services ,447.00,350.71,21.10,24.40,0.06,0.07
+PERSONAL SERVICES,5212.00,3676.55,201.26,215.42,0.05,0.06
+Private Households ,1149.00,869.63,6.40,7.78,0.01,0.01
+Hotels and Motels ,2235.00,1414.76,159.34,165.68,0.11,0.12
+"Lodging places, except hotels and motels ",158.00,111.04,1.31,1.31,0.01,0.01
+"Laundry, cleaning, and garment services ",484.00,375.90,23.11,24.87,0.06,0.07
+Beauty shops ,704.00,526.45,5.19,6.68,0.01,0.01
+Barber shops ,59.00,48.99,2.69,2.69,0.05,0.05
+Funeral service and crematories ,120.00,90.55,1.20,1.20,0.01,0.01
+Shoe repair shops ,5.00,4.91,0.00,0.00,0.00,0.00
+Dressmaking shops ,3.00,2.73,0.00,0.00,0.00,0.00
+Miscellaneous personal services ,295.00,231.59,2.01,5.22,0.01,0.02
+ENTERTAINMENT AND RECREATION SERVICES,9851.00,7184.79,894.59,1024.41,0.12,0.14
+Theaters and motion pictures ,631.00,477.76,90.56,97.22,0.19,0.20
+Video tape rental ,128.00,103.27,0.00,0.00,0.00,0.00
+Bowling centers ,65.00,49.81,0.00,0.00,0.00,0.00
+Miscellaneous entertainment and recreation services ,2091.00,1550.44,114.61,132.02,0.07,0.09
+"MEDICAL SERVICES, EXCEPT HOSPITALS",8064.00,5962.81,428.72,490.52,0.07,0.08
+Offices and clinics of physicians ,1942.00,1430.83,39.72,45.23,0.03,0.03
+Offices and clinics of dentists ,726.00,535.23,6.13,8.00,0.01,0.01
+Offices and clinics of chiropractors ,117.00,87.75,0.00,0.00,0.00,0.00
+Offices and clinics of optometrists ,65.00,51.36,1.80,3.21,0.04,0.06
+"Offices and clinics of health practitioners, n.e.c. ",67.00,49.32,1.69,1.69,0.03,0.03
+HOSPITALS ,6936.00,5003.51,689.42,795.18,0.14,0.16
+Nursing and personal care facilities ,2425.00,1741.39,176.34,195.06,0.10,0.11
+"Health services, n.e.c. ",2722.00,2066.93,203.03,237.32,0.10,0.11
+OTHER PROFESSIONAL SERVICES,7156.00,5304.64,145.47,171.88,0.03,0.03
+Legal services ,1459.00,1097.64,11.53,16.55,0.01,0.02
+EDUCATIONAL SERVICES,15129.00,10878.36,3748.21,4291.33,0.34,0.39
+Elementary and secondary schools ,10394.00,7556.89,3314.31,3766.98,0.44,0.50
+Colleges and universities ,4130.00,2885.12,391.26,477.17,0.14,0.17
+Vocational schools ,121.00,90.50,6.73,9.46,0.07,0.10
+Libraries ,260.00,184.86,27.18,28.69,0.15,0.16
+"Educational services, n.e.c. ",224.00,160.99,8.74,9.03,0.05,0.06
+SOCIAL SERVICES,3984.00,2959.37,214.80,259.62,0.07,0.09
+Job training and vocational rehabilitation services ,302.00,216.64,17.93,20.09,0.08,0.09
+Child day care services ,1312.00,1014.33,24.24,36.55,0.02,0.04
+Family child care homes ,32.00,23.68,0.00,0.00,0.00,0.00
+"Residential care facilities, without nursing ",690.00,504.64,31.40,37.25,0.06,0.07
+"Social services, n.e.c. ",1648.00,1200.09,141.23,165.72,0.12,0.14
+"Museums, art galleries, and zoos ",173.00,117.16,13.94,14.07,0.12,0.12
+Labor unions ,84.00,59.34,47.20,47.56,0.80,0.80
+Religious organizations ,1296.00,958.07,6.69,9.10,0.01,0.01
+"Membership organizations, n.e.c. ",538.00,358.06,7.43,7.81,0.02,0.02
+"Engineering, architectural, and surveying services ",1114.00,853.72,20.13,27.50,0.02,0.03
+"Accounting, auditing, and bookkeeping services ",722.00,552.10,3.64,5.45,0.01,0.01
+"Research, development, and testing services ",782.00,567.95,27.47,29.78,0.05,0.05
+Management and public relations services ,882.00,668.44,7.19,13.81,0.01,0.02
+Miscellaneous professional and related services ,106.00,72.17,0.24,0.24,0.00,0.00
+PUBLIC ADMINISTRATION,8455.00,5978.13,1913.28,2135.33,0.32,0.36
+Executive and legislative offices ,246.00,154.03,12.59,14.99,0.08,0.10
+"General government, n.e.c. ",1024.00,700.89,173.30,197.02,0.25,0.28
+"Justice, public order, and safety ",3351.00,2525.84,1124.87,1209.49,0.45,0.48
+"Public finance, taxation, and monetary policy ",497.00,336.75,101.45,116.35,0.30,0.35
+Administration of human resources programs ,1144.00,774.89,213.85,250.97,0.28,0.32
+Administration of environmental quality and housing programs ,403.00,244.39,54.08,61.85,0.22,0.25
+Administration of economic programs ,937.00,630.39,162.50,187.42,0.26,0.30
+National security and international affairs ,853.00,610.94,70.65,97.24,0.12,0.16
